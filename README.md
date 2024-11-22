@@ -21,4 +21,8 @@ Interactivity and Responsiveness:
 
 The application provides a user-friendly experience with hover effects, clickable links, and smooth transitions.
 ![image](https://github.com/user-attachments/assets/1887ad12-a588-4733-b48d-546acc5be873)
+
 ![image](https://github.com/user-attachments/assets/e6e1a122-d692-45ce-9a68-77b613a9f643)
+
+![image](https://github.com/user-attachments/assets/bbd6db14-b38b-47a3-94a5-d7c944d7784d)
+
