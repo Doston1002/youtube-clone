@@ -21,10 +21,13 @@ const Main = () => {
     }, [selectedCategory]);
     
   return (
+    <Container display={'flex'} sx={{ flexDirection: { xs: 'column', md: 'row' } }}>
+
+    
    <Stack>
    <Category selectedCategoryHandler={selectedCategoryHandler}/>
     <Box p={2} sx={{height:'90vh'}}>
-        <Container maxWidth={'90%'}>
+        <Container maxWidth={'90%'} >
             <Typography variant={'h4'} fontWeight={"bold"} mb={2}>
                 {selectedCategory} <span style={{color:colors.secondary}}>videos</span>
             </Typography>
@@ -33,6 +36,7 @@ const Main = () => {
 
     </Box>
    </Stack>
+   </Container>
   )
 }
 

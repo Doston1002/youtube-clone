@@ -19,6 +19,11 @@ a{
   text-decoration: none;
   color: black;
 }
+.navbar__page{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
 .search-bar{
   border: none;
   outline: none;
